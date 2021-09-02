@@ -13,3 +13,6 @@ Ideal for interpreters such as Python or JSON parsers.
 * Only allows decimal numbers and exponents
 * Does not allow whitespaces
 * Does not allow '+' sign before the exponent(E)
+
+**Built with:**
+gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
