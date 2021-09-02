@@ -16,3 +16,5 @@ Ideal for interpreters such as Python or JSON parsers.
 
 **Built with:**
 gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
+
+![outcome](https://raw.githubusercontent.com/theQuetzalcoatl/faster-strtof/main/Screenshot%20from%202021-09-01%2018-56-02.png)
