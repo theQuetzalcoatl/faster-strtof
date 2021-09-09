@@ -1,7 +1,7 @@
 # faster-strtof
 An algorithm which exceeds the speed of the standard libc function's.
 
-Ideal for interpreters such as Python or JSON parsers.
+Ideal for interpreters such as Python, for JSON parsers or faster game engine deserialization.
 
 **Advantages:**
 * about  5-6x faster on average
